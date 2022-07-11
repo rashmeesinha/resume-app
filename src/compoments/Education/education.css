@@ -9,7 +9,7 @@
 
 #educationHeader {
   text-decoration: none;
-
+ position: relative;
   font-family: cursive;
   display: center;
   font-size: 30px;
